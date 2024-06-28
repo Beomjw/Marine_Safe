@@ -5,4 +5,4 @@ print("my name is beom6")
 
 print("my name is beom9")
 
-print("my name is 태경")
+print("my name is 서현")
